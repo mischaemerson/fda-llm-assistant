@@ -7,7 +7,7 @@ This project is a sophisticated, deployed AI assistant that answers questions ab
 ## 🚀 Live Demo
 
 You can try the live, interactive application here:
-**[https://your-app-name.streamlit.app](https://fda-llm-assistant.streamlit.app/)**
+**[https://fda-llm-assistant.streamlit.app/](https://fda-llm-assistant.streamlit.app/)**
 
 ## ✨ Key Features
 
