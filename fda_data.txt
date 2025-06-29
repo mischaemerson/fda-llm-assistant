@@ -1,0 +1,8 @@
+The FDA's drug approval process is a multi-step journey to ensure that new drugs are safe and effective. It begins with preclinical research on animals. If the results are promising, the drug sponsor submits an Investigational New Drug (IND) application to the FDA.
+
+Once the IND is approved, the drug enters clinical trials, which have three phases:
+- Phase 1: Small trials to evaluate safety, dosage, and side effects in a few dozen healthy volunteers.
+- Phase 2: Larger trials in several hundred people with the disease to test for effectiveness and further evaluate safety.
+- Phase 3: Large-scale trials in several thousand people to confirm effectiveness, monitor side effects, and compare the drug to existing treatments.
+
+After successful clinical trials, the sponsor submits a New Drug Application (NDA) to the FDA. The FDA reviews the NDA to decide whether to approve the drug. The standard review time is 10 months. After approval, the FDA continues to monitor the drug's safety in a process called post-market surveillance (Phase 4).
